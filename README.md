@@ -1,2 +1,2 @@
-# -titans
+# -titans reborn
 Adds giant bosses
